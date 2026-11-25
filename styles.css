@@ -1,0 +1,12 @@
+:root{
+    --main-color: rgb(255,0,0);
+    --secondary-color: rgb(21, 188, 24);
+}
+
+main{
+    background-color: var(--main-color);
+}
+
+section{
+    background-color: var(--secondary-color);
+}
